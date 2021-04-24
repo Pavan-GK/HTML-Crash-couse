@@ -1,3 +1,0 @@
-Go live server 
-HTML BOilerplater
-prettiercode formater
